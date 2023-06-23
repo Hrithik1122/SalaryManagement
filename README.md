@@ -57,11 +57,11 @@ Create another link for salary details in which I can get all calculated salary 
 • Open your command-line interface (CLI) or terminal. <br>
 • Navigate to the root directory of your Laravel application. <br>
 • `npm install` and `composer install` <br>
-• `php artisan schedule:run` execute this console command and see the result in storage/logs/laravel.log file
 
 3. Run this command `php artisan serve` to start the server.
 4. Start the application from `http://127.0.0.1:8000/` using local server.
-5. To access the admin dashboard go to `http://127.0.0.1:8000/admin/login` using local server.
+5. To access the admin dashboard go to `http://127.0.0.1:8000/register` using local server.
+6. `php artisan schedule:run` execute this console command and see the result in storage/logs/laravel.log file
 
 --- 
 <h3 align='center'>Hope you like this application :)</h3>
